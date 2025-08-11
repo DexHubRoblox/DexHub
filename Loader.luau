@@ -1,6 +1,5 @@
 local scripts = {
-	[7711635737] = "https://raw.githubusercontent.com/cattercatty/Cats/refs/heads/main/Nexar/V1/EH.luau",
-	[126884695634066] = "https://raw.githubusercontent.com/cattercatty/Cats/refs/heads/main/Nexar/V1/GAG.luau";
+	[7711635737] = "https://raw.githubusercontent.com/DexHubRoblox/DexHub/refs/heads/main/DexBase.luau",
 }
 
 loadstring(game:HttpGet(scripts[game.PlaceId]))()
